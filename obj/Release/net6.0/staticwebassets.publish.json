@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ch8818Jp3+KsYWQju2gDWoZhQXU98oChZzMAzxeSG+Q=",
+  "Source": "EchoBot",
+  "BasePath": "_content/EchoBot",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot/wwwroot",
+      "Source": "EchoBot",
+      "ContentRoot": "/Users/gary/Documents/C#/Bot/SKFHHR/wwwroot/",
+      "BasePath": "_content/EchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/gary/Documents/C#/Bot/SKFHHR/wwwroot/default.html",
+      "SourceId": "EchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/gary/Documents/C#/Bot/SKFHHR/wwwroot/",
+      "BasePath": "_content/EchoBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/default.html"
+    }
+  ]
+}
