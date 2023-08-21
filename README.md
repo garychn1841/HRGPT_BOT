@@ -4,6 +4,10 @@ Bot Framework v4 SKFH_HRGPT_BOT sample.
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
+## SKFH_HRGPT_BOT Software Architecture
+
+![Software Architecture](./yourLocation/yourFile.png)
+
 ## Prerequisites
 
 - [.NET SDK](https://dotnet.microsoft.com/download) version 6.0
