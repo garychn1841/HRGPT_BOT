@@ -6,7 +6,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## SKFH_HRGPT_BOT Software Architecture
 
-![Software Architecture](./yourLocation/yourFile.png)
+![Software Architecture](https://github.com/garychn1841/SKFH_HRGPT_BOT/blob/master/pic/Software%20Architecture%201.png)
 
 ## Prerequisites
 
